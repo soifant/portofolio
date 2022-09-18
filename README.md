@@ -1,3 +1,4 @@
 # portofolio
-hello word 
-swlamat pagi
+hello wordi
+# Data
+1. Makan
